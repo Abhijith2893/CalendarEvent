@@ -1,0 +1,685 @@
+Timestamp,UID,Time,Name,Target,Info,State,Version
+3/7/2018 16:35:07,Linux-Chrome-026207011847685147,1520462107324,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:08,Linux-Chrome-026207011847685147,1520462107722,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:09,Linux-Chrome-026207011847685147,1520462108616,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:35:09,Linux-Chrome-026207011847685147,1520462109084,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:09,Linux-Chrome-026207011847685147,1520462109217,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:10,Linux-Chrome-026207011847685147,1520462109289,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:11,Linux-Chrome-026207011847685147,1520462110541,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:11,Linux-Chrome-026207011847685147,1520462110685,keydown,input#event-name.title.col-md-12,"{""which"":49}",,A
+3/7/2018 16:35:11,Linux-Chrome-026207011847685147,1520462111059,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:35:12,Linux-Chrome-026207011847685147,1520462111431,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:12,Linux-Chrome-026207011847685147,1520462111808,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:35:12,Linux-Chrome-026207011847685147,1520462112023,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:12,Linux-Chrome-026207011847685147,1520462112205,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462112366,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462112668,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462112808,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462112842,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462112992,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:13,Linux-Chrome-026207011847685147,1520462113129,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:14,Linux-Chrome-026207011847685147,1520462113747,keydown,input#event-location.col-md-12,"{""which"":49}",,A
+3/7/2018 16:35:16,Linux-Chrome-026207011847685147,1520462115590,mousedown,input#all-day-event-checkbox,"{""which"":1,""pageX"":598,""pageY"":151}",,A
+3/7/2018 16:35:17,Linux-Chrome-026207011847685147,1520462116439,mousedown,input#all-day-event-date,"{""which"":1,""pageX"":623,""pageY"":180}",,A
+3/7/2018 16:35:18,Linux-Chrome-026207011847685147,1520462117743,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":712,""pageY"":300}",,A
+3/7/2018 16:35:19,Linux-Chrome-026207011847685147,1520462119017,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":698,""pageY"":259}",,A
+3/7/2018 16:35:21,Linux-Chrome-026207011847685147,1520462121081,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":598,""pageY"":72}",,A
+3/7/2018 16:35:22,Linux-Chrome-026207011847685147,1520462121889,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:22,Linux-Chrome-026207011847685147,1520462122190,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:23,Linux-Chrome-026207011847685147,1520462122439,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:35:23,Linux-Chrome-026207011847685147,1520462122534,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:23,Linux-Chrome-026207011847685147,1520462122662,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:23,Linux-Chrome-026207011847685147,1520462122777,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:23,Linux-Chrome-026207011847685147,1520462122896,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:24,Linux-Chrome-026207011847685147,1520462123694,keydown,input#event-name.title.col-md-12,"{""which"":50}",,A
+3/7/2018 16:35:25,Linux-Chrome-026207011847685147,1520462124766,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:35:25,Linux-Chrome-026207011847685147,1520462125129,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:26,Linux-Chrome-026207011847685147,1520462125440,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:35:26,Linux-Chrome-026207011847685147,1520462125626,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:26,Linux-Chrome-026207011847685147,1520462125820,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:35:26,Linux-Chrome-026207011847685147,1520462125935,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:35:26,Linux-Chrome-026207011847685147,1520462126232,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:27,Linux-Chrome-026207011847685147,1520462126373,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:35:27,Linux-Chrome-026207011847685147,1520462126428,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:27,Linux-Chrome-026207011847685147,1520462126550,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:27,Linux-Chrome-026207011847685147,1520462126745,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:28,Linux-Chrome-026207011847685147,1520462127478,keydown,input#event-location.col-md-12,"{""which"":50}",,A
+3/7/2018 16:35:31,Linux-Chrome-026207011847685147,1520462130775,mousedown,input#all-day-event-checkbox,"{""which"":1,""pageX"":602,""pageY"":152}",,A
+3/7/2018 16:35:32,Linux-Chrome-026207011847685147,1520462131787,mousedown,input#event-start-date,"{""which"":1,""pageX"":630,""pageY"":186}",,A
+3/7/2018 16:35:34,Linux-Chrome-026207011847685147,1520462133402,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":722,""pageY"":300}",,A
+3/7/2018 16:35:35,Linux-Chrome-026207011847685147,1520462134764,mousedown,div.xdsoft_scrollbar,"{""which"":1,""pageX"":890,""pageY"":250}",,A
+3/7/2018 16:35:38,Linux-Chrome-026207011847685147,1520462138067,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":861,""pageY"":248}",,A
+3/7/2018 16:35:39,Linux-Chrome-026207011847685147,1520462139230,mousedown,input#event-end-date,"{""which"":1,""pageX"":685,""pageY"":211}",,A
+3/7/2018 16:35:41,Linux-Chrome-026207011847685147,1520462140880,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend div,"{""which"":1,""pageX"":811,""pageY"":327}",,A
+3/7/2018 16:35:43,Linux-Chrome-026207011847685147,1520462142236,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":876,""pageY"":297}",,A
+3/7/2018 16:35:44,Linux-Chrome-026207011847685147,1520462143808,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":688,""pageY"":286}",,A
+3/7/2018 16:35:45,Linux-Chrome-026207011847685147,1520462145258,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":608,""pageY"":79}",,A
+3/7/2018 16:35:46,Linux-Chrome-026207011847685147,1520462145791,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:46,Linux-Chrome-026207011847685147,1520462146079,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:47,Linux-Chrome-026207011847685147,1520462146319,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:35:47,Linux-Chrome-026207011847685147,1520462146443,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:35:47,Linux-Chrome-026207011847685147,1520462146630,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:47,Linux-Chrome-026207011847685147,1520462146539,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:47,Linux-Chrome-026207011847685147,1520462146866,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:48,Linux-Chrome-026207011847685147,1520462147541,keydown,input#event-name.title.col-md-12,"{""which"":51}",,A
+3/7/2018 16:35:49,Linux-Chrome-026207011847685147,1520462148498,mousedown,input#event-location.col-md-12,"{""which"":1,""pageX"":586,""pageY"":106}",,A
+3/7/2018 16:35:49,Linux-Chrome-026207011847685147,1520462148944,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462149306,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462149479,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462149606,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462149676,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462149949,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462150091,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:35:50,Linux-Chrome-026207011847685147,1520462150107,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:35:51,Linux-Chrome-026207011847685147,1520462150238,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:35:51,Linux-Chrome-026207011847685147,1520462150349,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:35:51,Linux-Chrome-026207011847685147,1520462150824,keydown,input#event-location.col-md-12,"{""which"":51}",,A
+3/7/2018 16:35:54,Linux-Chrome-026207011847685147,1520462153836,mousedown,input#event-start-date,"{""which"":1,""pageX"":629,""pageY"":194}",,A
+3/7/2018 16:35:56,Linux-Chrome-026207011847685147,1520462155591,mousedown,td.xdsoft_date.xdsoft_day_of_week2 div,"{""which"":1,""pageX"":694,""pageY"":293}",,A
+3/7/2018 16:35:57,Linux-Chrome-026207011847685147,1520462156691,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":874,""pageY"":304}",,A
+3/7/2018 16:35:59,Linux-Chrome-026207011847685147,1520462158280,mousedown,input#event-end-date,"{""which"":1,""pageX"":724,""pageY"":219}",,A
+3/7/2018 16:36:00,Linux-Chrome-026207011847685147,1520462159419,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":785,""pageY"":379}",,A
+3/7/2018 16:36:01,Linux-Chrome-026207011847685147,1520462160321,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":864,""pageY"":379}",,A
+3/7/2018 16:36:02,Linux-Chrome-026207011847685147,1520462161629,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":675,""pageY"":247}",,A
+3/7/2018 16:36:04,Linux-Chrome-026207011847685147,1520462164184,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":659,""pageY"":280}",,A
+3/7/2018 16:36:07,Linux-Chrome-026207011847685147,1520462166363,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":771,""pageY"":403}",,A
+3/7/2018 16:36:07,Linux-Chrome-026207011847685147,1520462167187,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":843,""pageY"":383}",,A
+3/7/2018 16:36:09,Linux-Chrome-026207011847685147,1520462168399,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":702,""pageY"":331}",,A
+3/7/2018 16:36:10,Linux-Chrome-026207011847685147,1520462170214,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":606,""pageY"":77}",,A
+3/7/2018 16:36:11,Linux-Chrome-026207011847685147,1520462170772,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:36:11,Linux-Chrome-026207011847685147,1520462171071,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:12,Linux-Chrome-026207011847685147,1520462171347,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:36:12,Linux-Chrome-026207011847685147,1520462171463,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:12,Linux-Chrome-026207011847685147,1520462171608,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:36:12,Linux-Chrome-026207011847685147,1520462171726,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:36:12,Linux-Chrome-026207011847685147,1520462171812,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:36:13,Linux-Chrome-026207011847685147,1520462172687,keydown,input#event-name.title.col-md-12,"{""which"":52}",,A
+3/7/2018 16:36:13,Linux-Chrome-026207011847685147,1520462173058,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:36:14,Linux-Chrome-026207011847685147,1520462173415,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:36:14,Linux-Chrome-026207011847685147,1520462173747,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:36:14,Linux-Chrome-026207011847685147,1520462173914,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:36:14,Linux-Chrome-026207011847685147,1520462174066,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:36:14,Linux-Chrome-026207011847685147,1520462174120,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462174395,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462174532,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462174480,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462174655,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462174742,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:36:15,Linux-Chrome-026207011847685147,1520462175183,keydown,input#event-location.col-md-12,"{""which"":52}",,A
+3/7/2018 16:36:17,Linux-Chrome-026207011847685147,1520462176632,mousedown,input#event-start-date,"{""which"":1,""pageX"":650,""pageY"":177}",,A
+3/7/2018 16:36:19,Linux-Chrome-026207011847685147,1520462178308,mousedown,td.xdsoft_date.xdsoft_day_of_week1 div,"{""which"":1,""pageX"":665,""pageY"":298}",,A
+3/7/2018 16:36:20,Linux-Chrome-026207011847685147,1520462179360,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":860,""pageY"":288}",,A
+3/7/2018 16:36:21,Linux-Chrome-026207011847685147,1520462180760,mousedown,input#event-end-date,"{""which"":1,""pageX"":688,""pageY"":210}",,A
+3/7/2018 16:36:22,Linux-Chrome-026207011847685147,1520462181638,mousedown,td.xdsoft_date.xdsoft_day_of_week2 div,"{""which"":1,""pageX"":687,""pageY"":381}",,A
+3/7/2018 16:36:23,Linux-Chrome-026207011847685147,1520462182776,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":852,""pageY"":374}",,A
+3/7/2018 16:36:25,Linux-Chrome-026207011847685147,1520462184751,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":643,""pageY"":243}",,A
+3/7/2018 16:36:27,Linux-Chrome-026207011847685147,1520462187002,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":679,""pageY"":268}",,A
+3/7/2018 16:36:28,Linux-Chrome-026207011847685147,1520462188052,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":738,""pageY"":441}",,A
+3/7/2018 16:36:29,Linux-Chrome-026207011847685147,1520462188865,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":867,""pageY"":441}",,A
+3/7/2018 16:36:31,Linux-Chrome-026207011847685147,1520462190406,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":723,""pageY"":339}",,A
+3/7/2018 16:36:33,Linux-Chrome-026207011847685147,1520462192381,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":601,""pageY"":74}",,A
+3/7/2018 16:36:33,Linux-Chrome-026207011847685147,1520462193072,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462193410,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462193602,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462193679,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462193818,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462193907,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:36:34,Linux-Chrome-026207011847685147,1520462194123,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:36:35,Linux-Chrome-026207011847685147,1520462195092,keydown,input#event-name.title.col-md-12,"{""which"":53}",,A
+3/7/2018 16:36:36,Linux-Chrome-026207011847685147,1520462195547,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:36:36,Linux-Chrome-026207011847685147,1520462195889,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:36:37,Linux-Chrome-026207011847685147,1520462196493,keydown,input#event-location.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:37,Linux-Chrome-026207011847685147,1520462196772,keydown,input#event-location.col-md-12,"{""which"":86}",,A
+3/7/2018 16:36:37,Linux-Chrome-026207011847685147,1520462196899,keydown,input#event-location.col-md-12,"{""which"":69}",,A
+3/7/2018 16:36:37,Linux-Chrome-026207011847685147,1520462197041,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:36:37,Linux-Chrome-026207011847685147,1520462197178,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:36:45,Linux-Chrome-026207011847685147,1520462204564,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:36:45,Linux-Chrome-026207011847685147,1520462205061,keydown,input#event-location.col-md-12,"{""which"":53}",,A
+3/7/2018 16:36:47,Linux-Chrome-026207011847685147,1520462206468,mousedown,input#event-start-date,"{""which"":1,""pageX"":621,""pageY"":188}",,A
+3/7/2018 16:36:48,Linux-Chrome-026207011847685147,1520462207417,mousedown,td.xdsoft_date.xdsoft_day_of_week3 div,"{""which"":1,""pageX"":723,""pageY"":311}",,A
+3/7/2018 16:36:49,Linux-Chrome-026207011847685147,1520462208705,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":868,""pageY"":320}",,A
+3/7/2018 16:36:50,Linux-Chrome-026207011847685147,1520462209907,mousedown,input#event-end-date,"{""which"":1,""pageX"":725,""pageY"":221}",,A
+3/7/2018 16:36:51,Linux-Chrome-026207011847685147,1520462211006,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":793,""pageY"":401}",,A
+3/7/2018 16:36:52,Linux-Chrome-026207011847685147,1520462211719,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":856,""pageY"":401}",,A
+3/7/2018 16:36:53,Linux-Chrome-026207011847685147,1520462212778,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":669,""pageY"":245}",,A
+3/7/2018 16:36:55,Linux-Chrome-026207011847685147,1520462214795,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":706,""pageY"":267}",,A
+3/7/2018 16:36:56,Linux-Chrome-026207011847685147,1520462215860,mousedown,td.xdsoft_date.xdsoft_day_of_week5,"{""which"":1,""pageX"":788,""pageY"":448}",,A
+3/7/2018 16:36:57,Linux-Chrome-026207011847685147,1520462216497,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":867,""pageY"":456}",,A
+3/7/2018 16:36:58,Linux-Chrome-026207011847685147,1520462218057,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":725,""pageY"":347}",,A
+3/7/2018 16:37:00,Linux-Chrome-026207011847685147,1520462219395,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":581,""pageY"":67}",,A
+3/7/2018 16:37:00,Linux-Chrome-026207011847685147,1520462220102,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462220376,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462220600,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462220723,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462220849,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462220938,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:01,Linux-Chrome-026207011847685147,1520462221043,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:02,Linux-Chrome-026207011847685147,1520462222036,keydown,input#event-name.title.col-md-12,"{""which"":54}",,A
+3/7/2018 16:37:03,Linux-Chrome-026207011847685147,1520462222439,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:37:03,Linux-Chrome-026207011847685147,1520462222816,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223297,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223455,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223583,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223646,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223894,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462223967,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462224030,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462224128,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:04,Linux-Chrome-026207011847685147,1520462224240,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:05,Linux-Chrome-026207011847685147,1520462224608,keydown,input#event-location.col-md-12,"{""which"":54}",,A
+3/7/2018 16:37:06,Linux-Chrome-026207011847685147,1520462225866,mousedown,input#event-start-date,"{""which"":1,""pageX"":632,""pageY"":192}",,A
+3/7/2018 16:37:08,Linux-Chrome-026207011847685147,1520462227367,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":741,""pageY"":325}",,A
+3/7/2018 16:37:08,Linux-Chrome-026207011847685147,1520462228231,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":860,""pageY"":302}",,A
+3/7/2018 16:37:10,Linux-Chrome-026207011847685147,1520462229371,mousedown,input#event-end-date,"{""which"":1,""pageX"":702,""pageY"":219}",,A
+3/7/2018 16:37:11,Linux-Chrome-026207011847685147,1520462230431,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend div,"{""which"":1,""pageX"":810,""pageY"":397}",,A
+3/7/2018 16:37:11,Linux-Chrome-026207011847685147,1520462231081,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":859,""pageY"":403}",,A
+3/7/2018 16:37:12,Linux-Chrome-026207011847685147,1520462232144,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":667,""pageY"":243}",,A
+3/7/2018 16:37:14,Linux-Chrome-026207011847685147,1520462234191,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":654,""pageY"":276}",,A
+3/7/2018 16:37:17,Linux-Chrome-026207011847685147,1520462236247,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend div,"{""which"":1,""pageX"":808,""pageY"":458}",,A
+3/7/2018 16:37:17,Linux-Chrome-026207011847685147,1520462236868,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":853,""pageY"":458}",,A
+3/7/2018 16:37:18,Linux-Chrome-026207011847685147,1520462238135,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":709,""pageY"":333}",,A
+3/7/2018 16:37:20,Linux-Chrome-026207011847685147,1520462239661,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":610,""pageY"":76}",,A
+3/7/2018 16:37:20,Linux-Chrome-026207011847685147,1520462240177,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:21,Linux-Chrome-026207011847685147,1520462240763,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:21,Linux-Chrome-026207011847685147,1520462241016,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:37:21,Linux-Chrome-026207011847685147,1520462241146,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:21,Linux-Chrome-026207011847685147,1520462241255,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:22,Linux-Chrome-026207011847685147,1520462241339,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:22,Linux-Chrome-026207011847685147,1520462241422,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:23,Linux-Chrome-026207011847685147,1520462242503,keydown,input#event-name.title.col-md-12,"{""which"":55}",,A
+3/7/2018 16:37:23,Linux-Chrome-026207011847685147,1520462242735,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:37:23,Linux-Chrome-026207011847685147,1520462243037,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:24,Linux-Chrome-026207011847685147,1520462243563,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:37:24,Linux-Chrome-026207011847685147,1520462243737,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:24,Linux-Chrome-026207011847685147,1520462243999,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:37:24,Linux-Chrome-026207011847685147,1520462243929,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462244308,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462244397,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462244460,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462244611,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462244758,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:25,Linux-Chrome-026207011847685147,1520462245203,keydown,input#event-location.col-md-12,"{""which"":55}",,A
+3/7/2018 16:37:27,Linux-Chrome-026207011847685147,1520462246504,mousedown,input#event-start-date,"{""which"":1,""pageX"":632,""pageY"":176}",,A
+3/7/2018 16:37:28,Linux-Chrome-026207011847685147,1520462247555,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_today div,"{""which"":1,""pageX"":718,""pageY"":290}",,A
+3/7/2018 16:37:29,Linux-Chrome-026207011847685147,1520462248456,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":870,""pageY"":277}",,A
+3/7/2018 16:37:30,Linux-Chrome-026207011847685147,1520462249505,mousedown,input#event-end-date,"{""which"":1,""pageX"":720,""pageY"":216}",,A
+3/7/2018 16:37:31,Linux-Chrome-026207011847685147,1520462250506,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":784,""pageY"":383}",,A
+3/7/2018 16:37:31,Linux-Chrome-026207011847685147,1520462251208,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":854,""pageY"":383}",,A
+3/7/2018 16:37:33,Linux-Chrome-026207011847685147,1520462252334,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":673,""pageY"":246}",,A
+3/7/2018 16:37:35,Linux-Chrome-026207011847685147,1520462254694,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":657,""pageY"":262}",,A
+3/7/2018 16:37:36,Linux-Chrome-026207011847685147,1520462255973,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":777,""pageY"":460}",,A
+3/7/2018 16:37:37,Linux-Chrome-026207011847685147,1520462256662,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":854,""pageY"":460}",,A
+3/7/2018 16:37:41,Linux-Chrome-026207011847685147,1520462260971,mousedown,input#daily-recurrent-freq,"{""which"":1,""pageX"":539,""pageY"":347}",,A
+3/7/2018 16:37:42,Linux-Chrome-026207011847685147,1520462262095,keydown,input#daily-recurrent-freq,"{""which"":50}",,A
+3/7/2018 16:37:42,Linux-Chrome-026207011847685147,1520462261999,keydown,input#daily-recurrent-freq,"{""which"":49}",,A
+3/7/2018 16:37:43,Linux-Chrome-026207011847685147,1520462263114,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":606,""pageY"":401}",,A
+3/7/2018 16:37:45,Linux-Chrome-026207011847685147,1520462264803,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":590,""pageY"":75}",,A
+3/7/2018 16:37:46,Linux-Chrome-026207011847685147,1520462265289,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:46,Linux-Chrome-026207011847685147,1520462265615,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:46,Linux-Chrome-026207011847685147,1520462265746,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:37:46,Linux-Chrome-026207011847685147,1520462265836,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:37:46,Linux-Chrome-026207011847685147,1520462266115,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:47,Linux-Chrome-026207011847685147,1520462267022,keydown,input#event-name.title.col-md-12,"{""which"":8}",,A
+3/7/2018 16:37:48,Linux-Chrome-026207011847685147,1520462267664,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:48,Linux-Chrome-026207011847685147,1520462267872,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:48,Linux-Chrome-026207011847685147,1520462267785,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:50,Linux-Chrome-026207011847685147,1520462269380,keydown,input#event-name.title.col-md-12,"{""which"":56}",,A
+3/7/2018 16:37:50,Linux-Chrome-026207011847685147,1520462269909,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:37:50,Linux-Chrome-026207011847685147,1520462270257,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:37:51,Linux-Chrome-026207011847685147,1520462270817,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:51,Linux-Chrome-026207011847685147,1520462270993,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:37:51,Linux-Chrome-026207011847685147,1520462271073,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:37:52,Linux-Chrome-026207011847685147,1520462271334,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:37:52,Linux-Chrome-026207011847685147,1520462271508,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:37:52,Linux-Chrome-026207011847685147,1520462271460,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:37:52,Linux-Chrome-026207011847685147,1520462271630,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:37:52,Linux-Chrome-026207011847685147,1520462271714,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:37:51,Linux-Chrome-026207011847685147,1520462270623,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:37:53,Linux-Chrome-026207011847685147,1520462273175,keydown,input#event-location.col-md-12,"{""which"":56}",,A
+3/7/2018 16:37:55,Linux-Chrome-026207011847685147,1520462275150,mousedown,input#event-start-date,"{""which"":1,""pageX"":620,""pageY"":182}",,A
+3/7/2018 16:37:57,Linux-Chrome-026207011847685147,1520462276837,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":719,""pageY"":295}",,A
+3/7/2018 16:37:58,Linux-Chrome-026207011847685147,1520462277771,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":859,""pageY"":275}",,A
+3/7/2018 16:37:59,Linux-Chrome-026207011847685147,1520462278761,mousedown,input#event-end-date,"{""which"":1,""pageX"":720,""pageY"":221}",,A
+3/7/2018 16:38:00,Linux-Chrome-026207011847685147,1520462279759,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend div,"{""which"":1,""pageX"":809,""pageY"":403}",,A
+3/7/2018 16:38:01,Linux-Chrome-026207011847685147,1520462280437,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":872,""pageY"":400}",,A
+3/7/2018 16:38:06,Linux-Chrome-026207011847685147,1520462286017,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":590,""pageY"":321}",,A
+3/7/2018 16:38:09,Linux-Chrome-026207011847685147,1520462288379,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":568,""pageY"":386}",,A
+3/7/2018 16:38:09,Linux-Chrome-026207011847685147,1520462289192,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":644,""pageY"":389}",,A
+3/7/2018 16:38:10,Linux-Chrome-026207011847685147,1520462289827,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":679,""pageY"":456}",,A
+3/7/2018 16:38:12,Linux-Chrome-026207011847685147,1520462291944,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":597,""pageY"":69}",,A
+3/7/2018 16:38:13,Linux-Chrome-026207011847685147,1520462292859,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:38:13,Linux-Chrome-026207011847685147,1520462293206,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:38:14,Linux-Chrome-026207011847685147,1520462293346,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:38:14,Linux-Chrome-026207011847685147,1520462293465,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:38:14,Linux-Chrome-026207011847685147,1520462293543,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:38:14,Linux-Chrome-026207011847685147,1520462293674,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:38:14,Linux-Chrome-026207011847685147,1520462293744,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:38:15,Linux-Chrome-026207011847685147,1520462294633,keydown,input#event-name.title.col-md-12,"{""which"":57}",,A
+3/7/2018 16:38:15,Linux-Chrome-026207011847685147,1520462294853,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462295263,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462295589,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462295726,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462295883,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462295982,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:38:16,Linux-Chrome-026207011847685147,1520462296231,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:38:17,Linux-Chrome-026207011847685147,1520462296374,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:38:17,Linux-Chrome-026207011847685147,1520462296321,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:38:17,Linux-Chrome-026207011847685147,1520462296514,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:38:17,Linux-Chrome-026207011847685147,1520462296586,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:38:17,Linux-Chrome-026207011847685147,1520462297141,keydown,input#event-location.col-md-12,"{""which"":57}",,A
+3/7/2018 16:38:19,Linux-Chrome-026207011847685147,1520462298472,mousedown,input#event-start-date,"{""which"":1,""pageX"":652,""pageY"":186}",,A
+3/7/2018 16:38:21,Linux-Chrome-026207011847685147,1520462300298,mousedown,td.xdsoft_date.xdsoft_day_of_week1 div,"{""which"":1,""pageX"":640,""pageY"":297}",,A
+3/7/2018 16:38:22,Linux-Chrome-026207011847685147,1520462301299,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":869,""pageY"":312}",,A
+3/7/2018 16:38:23,Linux-Chrome-026207011847685147,1520462302749,mousedown,input#event-end-date,"{""which"":1,""pageX"":657,""pageY"":208}",,A
+3/7/2018 16:38:24,Linux-Chrome-026207011847685147,1520462303571,mousedown,div.xdsoft_datetimepicker.xdsoft_noselect.xdsoft_,"{""which"":1,""pageX"":744,""pageY"":416}",,A
+3/7/2018 16:38:24,Linux-Chrome-026207011847685147,1520462304205,mousedown,td.xdsoft_date.xdsoft_day_of_week4,"{""which"":1,""pageX"":750,""pageY"":411}",,A
+3/7/2018 16:38:25,Linux-Chrome-026207011847685147,1520462304913,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":871,""pageY"":362}",,A
+3/7/2018 16:38:28,Linux-Chrome-026207011847685147,1520462307827,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":656,""pageY"":272}",,A
+3/7/2018 16:38:30,Linux-Chrome-026207011847685147,1520462309985,mousedown,td.xdsoft_date.xdsoft_day_of_week4,"{""which"":1,""pageX"":760,""pageY"":422}",,A
+3/7/2018 16:38:31,Linux-Chrome-026207011847685147,1520462311252,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":844,""pageY"":423}",,A
+3/7/2018 16:38:33,Linux-Chrome-026207011847685147,1520462312767,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":588,""pageY"":317}",,A
+3/7/2018 16:38:36,Linux-Chrome-026207011847685147,1520462315242,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":574,""pageY"":439}",,A
+3/7/2018 16:38:37,Linux-Chrome-026207011847685147,1520462316292,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":612,""pageY"":500}",,A
+3/7/2018 16:38:37,Linux-Chrome-026207011847685147,1520462317142,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":633,""pageY"":596}",,A
+3/7/2018 16:38:43,Linux-Chrome-026207011847685147,1520462322909,mousedown,input#event-name.title.col-md-12,"{""which"":1,""pageX"":555,""pageY"":74}",,A
+3/7/2018 16:38:44,Linux-Chrome-026207011847685147,1520462323402,keydown,input#event-name.title.col-md-12,"{""which"":16}",,A
+3/7/2018 16:38:44,Linux-Chrome-026207011847685147,1520462323756,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:38:44,Linux-Chrome-026207011847685147,1520462323993,keydown,input#event-name.title.col-md-12,"{""which"":86}",,A
+3/7/2018 16:38:45,Linux-Chrome-026207011847685147,1520462325033,keydown,input#event-name.title.col-md-12,"{""which"":69}",,A
+3/7/2018 16:38:45,Linux-Chrome-026207011847685147,1520462325150,keydown,input#event-name.title.col-md-12,"{""which"":78}",,A
+3/7/2018 16:38:46,Linux-Chrome-026207011847685147,1520462325276,keydown,input#event-name.title.col-md-12,"{""which"":84}",,A
+3/7/2018 16:38:46,Linux-Chrome-026207011847685147,1520462325353,keydown,input#event-name.title.col-md-12,"{""which"":32}",,A
+3/7/2018 16:38:46,Linux-Chrome-026207011847685147,1520462325983,keydown,input#event-name.title.col-md-12,"{""which"":97}",,A
+3/7/2018 16:38:46,Linux-Chrome-026207011847685147,1520462326010,keydown,input#event-name.title.col-md-12,"{""which"":96}",,A
+3/7/2018 16:38:46,Linux-Chrome-026207011847685147,1520462326269,keydown,input#event-name.title.col-md-12,"{""which"":9}",,A
+3/7/2018 16:38:47,Linux-Chrome-026207011847685147,1520462326628,keydown,input#event-location.col-md-12,"{""which"":16}",,A
+3/7/2018 16:38:47,Linux-Chrome-026207011847685147,1520462326934,keydown,input#event-location.col-md-12,"{""which"":76}",,A
+3/7/2018 16:38:47,Linux-Chrome-026207011847685147,1520462327083,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:38:47,Linux-Chrome-026207011847685147,1520462327216,keydown,input#event-location.col-md-12,"{""which"":67}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327281,keydown,input#event-location.col-md-12,"{""which"":65}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327562,keydown,input#event-location.col-md-12,"{""which"":84}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327640,keydown,input#event-location.col-md-12,"{""which"":73}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327691,keydown,input#event-location.col-md-12,"{""which"":79}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327872,keydown,input#event-location.col-md-12,"{""which"":78}",,A
+3/7/2018 16:38:48,Linux-Chrome-026207011847685147,1520462327985,keydown,input#event-location.col-md-12,"{""which"":32}",,A
+3/7/2018 16:38:49,Linux-Chrome-026207011847685147,1520462328727,keydown,input#event-location.col-md-12,"{""which"":97}",,A
+3/7/2018 16:38:49,Linux-Chrome-026207011847685147,1520462328753,keydown,input#event-location.col-md-12,"{""which"":96}",,A
+3/7/2018 16:38:50,Linux-Chrome-026207011847685147,1520462330064,mousedown,input#event-start-date,"{""which"":1,""pageX"":646,""pageY"":180}",,A
+3/7/2018 16:38:52,Linux-Chrome-026207011847685147,1520462331690,mousedown,td.xdsoft_date.xdsoft_day_of_week2 div,"{""which"":1,""pageX"":666,""pageY"":296}",,A
+3/7/2018 16:38:53,Linux-Chrome-026207011847685147,1520462332754,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":851,""pageY"":310}",,A
+3/7/2018 16:38:54,Linux-Chrome-026207011847685147,1520462333816,mousedown,input#event-end-date,"{""which"":1,""pageX"":705,""pageY"":217}",,A
+3/7/2018 16:38:55,Linux-Chrome-026207011847685147,1520462334843,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend div,"{""which"":1,""pageX"":798,""pageY"":394}",,A
+3/7/2018 16:38:56,Linux-Chrome-026207011847685147,1520462335529,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":848,""pageY"":394}",,A
+3/7/2018 16:38:58,Linux-Chrome-026207011847685147,1520462337556,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":611,""pageY"":271}",,A
+3/7/2018 16:38:59,Linux-Chrome-026207011847685147,1520462338745,mousedown,td.xdsoft_date.xdsoft_day_of_week6.xdsoft_weekend,"{""which"":1,""pageX"":796,""pageY"":450}",,A
+3/7/2018 16:39:00,Linux-Chrome-026207011847685147,1520462339432,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":851,""pageY"":450}",,A
+3/7/2018 16:39:01,Linux-Chrome-026207011847685147,1520462340782,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":621,""pageY"":324}",,A
+3/7/2018 16:39:03,Linux-Chrome-026207011847685147,1520462342746,mousedown,input#yearly-recurrent-freq,"{""which"":1,""pageX"":527,""pageY"":356}",,A
+3/7/2018 16:39:04,Linux-Chrome-026207011847685147,1520462343797,keydown,input#yearly-recurrent-freq,"{""which"":97}",,A
+3/7/2018 16:39:04,Linux-Chrome-026207011847685147,1520462343835,keydown,input#yearly-recurrent-freq,"{""which"":96}",,A
+3/7/2018 16:39:05,Linux-Chrome-026207011847685147,1520462344785,mousedown,div.checkboxes,"{""which"":1,""pageX"":543,""pageY"":371}",,A
+3/7/2018 16:39:06,Linux-Chrome-026207011847685147,1520462345622,mousedown,div.month-checkbox-selector label,"{""which"":1,""pageX"":545,""pageY"":380}",,A
+3/7/2018 16:39:07,Linux-Chrome-026207011847685147,1520462346360,mousedown,div.month-checkbox-selector label,"{""which"":1,""pageX"":561,""pageY"":469}",,A
+3/7/2018 16:39:07,Linux-Chrome-026207011847685147,1520462347011,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":620,""pageY"":521}",,A
+3/7/2018 16:39:13,Linux-Chrome-026207011847685147,1520462352826,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:13,Linux-Chrome-026207011847685147,1520462353136,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462353367,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462353490,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462353574,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462353707,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462353812,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:14,Linux-Chrome-026207011847685147,1520462354250,keydown,input#event-name..form-control.title.col-md-12,"{""which"":49}",#new-event-text,B
+3/7/2018 16:39:15,Linux-Chrome-026207011847685147,1520462354524,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:39:15,Linux-Chrome-026207011847685147,1520462354812,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:15,Linux-Chrome-026207011847685147,1520462355263,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462355440,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462355587,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462355648,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462355958,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462356139,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:16,Linux-Chrome-026207011847685147,1520462356099,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:39:17,Linux-Chrome-026207011847685147,1520462356280,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:17,Linux-Chrome-026207011847685147,1520462356384,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:17,Linux-Chrome-026207011847685147,1520462357022,keydown,input#event-location.col-md-12,"{""which"":49}",#new-event-text,B
+3/7/2018 16:39:20,Linux-Chrome-026207011847685147,1520462359621,mousedown,input#all-day-event-checkbox,"{""which"":1,""pageX"":603,""pageY"":260}",#new-event-text,B
+3/7/2018 16:39:21,Linux-Chrome-026207011847685147,1520462360330,mousedown,input#all-day-event-date,"{""which"":1,""pageX"":629,""pageY"":295}",#new-event-text,B
+3/7/2018 16:39:22,Linux-Chrome-026207011847685147,1520462361343,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":713,""pageY"":408}",#new-event-text,B
+3/7/2018 16:39:23,Linux-Chrome-026207011847685147,1520462362700,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":684,""pageY"":367}",#new-event-text,B
+3/7/2018 16:39:23,Linux-Chrome-026207011847685147,1520462362870,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:39:23,Linux-Chrome-026207011847685147,1520462362876,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:39:25,Linux-Chrome-026207011847685147,1520462364420,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:25,Linux-Chrome-026207011847685147,1520462365099,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:26,Linux-Chrome-026207011847685147,1520462365968,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:39:26,Linux-Chrome-026207011847685147,1520462366091,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:27,Linux-Chrome-026207011847685147,1520462366206,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:27,Linux-Chrome-026207011847685147,1520462366931,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:27,Linux-Chrome-026207011847685147,1520462367097,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:28,Linux-Chrome-026207011847685147,1520462367405,keydown,input#event-name..form-control.title.col-md-12,"{""which"":50}",#new-event-text,B
+3/7/2018 16:39:28,Linux-Chrome-026207011847685147,1520462367702,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:39:28,Linux-Chrome-026207011847685147,1520462368039,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462368469,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462368637,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462368768,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462368807,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462369103,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:29,Linux-Chrome-026207011847685147,1520462369186,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:39:30,Linux-Chrome-026207011847685147,1520462369252,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:30,Linux-Chrome-026207011847685147,1520462369360,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:30,Linux-Chrome-026207011847685147,1520462369491,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:30,Linux-Chrome-026207011847685147,1520462370178,keydown,input#event-location.col-md-12,"{""which"":50}",#new-event-text,B
+3/7/2018 16:39:32,Linux-Chrome-026207011847685147,1520462371989,mousedown,input#event-start-date,"{""which"":1,""pageX"":626,""pageY"":294}",#new-event-text,B
+3/7/2018 16:39:33,Linux-Chrome-026207011847685147,1520462373264,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":717,""pageY"":406}",#new-event-text,B
+3/7/2018 16:39:35,Linux-Chrome-026207011847685147,1520462374289,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":872,""pageY"":352}",#new-event-text,B
+3/7/2018 16:39:36,Linux-Chrome-026207011847685147,1520462375389,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":752,""pageY"":482}",#new-event-text,B
+3/7/2018 16:39:36,Linux-Chrome-026207011847685147,1520462376117,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":840,""pageY"":477}",#new-event-text,B
+3/7/2018 16:39:42,Linux-Chrome-026207011847685147,1520462381652,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":684,""pageY"":394}",#new-event-text,B
+3/7/2018 16:39:42,Linux-Chrome-026207011847685147,1520462381841,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:39:42,Linux-Chrome-026207011847685147,1520462381836,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:39:43,Linux-Chrome-026207011847685147,1520462382796,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462383392,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462383619,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462383743,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462383858,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462383976,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:44,Linux-Chrome-026207011847685147,1520462384066,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:45,Linux-Chrome-026207011847685147,1520462384796,keydown,input#event-name..form-control.title.col-md-12,"{""which"":51}",#new-event-text,B
+3/7/2018 16:39:45,Linux-Chrome-026207011847685147,1520462385077,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:39:46,Linux-Chrome-026207011847685147,1520462385436,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:39:46,Linux-Chrome-026207011847685147,1520462385792,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:39:46,Linux-Chrome-026207011847685147,1520462385988,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:46,Linux-Chrome-026207011847685147,1520462386132,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:39:46,Linux-Chrome-026207011847685147,1520462386185,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:39:47,Linux-Chrome-026207011847685147,1520462386439,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:39:47,Linux-Chrome-026207011847685147,1520462386581,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:39:47,Linux-Chrome-026207011847685147,1520462386633,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:39:47,Linux-Chrome-026207011847685147,1520462386728,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:39:47,Linux-Chrome-026207011847685147,1520462386822,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:39:48,Linux-Chrome-026207011847685147,1520462387533,keydown,input#event-location.col-md-12,"{""which"":51}",#new-event-text,B
+3/7/2018 16:39:50,Linux-Chrome-026207011847685147,1520462389309,mousedown,input#event-start-date,"{""which"":1,""pageX"":638,""pageY"":296}",#new-event-text,B
+3/7/2018 16:39:51,Linux-Chrome-026207011847685147,1520462390673,mousedown,td.xdsoft_date.xdsoft_day_of_week3,"{""which"":1,""pageX"":728,""pageY"":416}",#new-event-text,B
+3/7/2018 16:39:52,Linux-Chrome-026207011847685147,1520462392050,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":854,""pageY"":406}",#new-event-text,B
+3/7/2018 16:39:54,Linux-Chrome-026207011847685147,1520462393262,mousedown,td.xdsoft_date.xdsoft_day_of_week4,"{""which"":1,""pageX"":743,""pageY"":495}",#new-event-text,B
+3/7/2018 16:39:54,Linux-Chrome-026207011847685147,1520462394088,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":871,""pageY"":470}",#new-event-text,B
+3/7/2018 16:39:56,Linux-Chrome-026207011847685147,1520462395438,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":650,""pageY"":354}",#new-event-text,B
+3/7/2018 16:39:58,Linux-Chrome-026207011847685147,1520462397825,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":646,""pageY"":376}",#new-event-text,B
+3/7/2018 16:39:59,Linux-Chrome-026207011847685147,1520462398653,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":761,""pageY"":525}",#new-event-text,B
+3/7/2018 16:40:00,Linux-Chrome-026207011847685147,1520462399340,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":848,""pageY"":533}",#new-event-text,B
+3/7/2018 16:40:01,Linux-Chrome-026207011847685147,1520462400428,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":749,""pageY"":421}",#new-event-text,B
+3/7/2018 16:40:01,Linux-Chrome-026207011847685147,1520462400609,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:40:01,Linux-Chrome-026207011847685147,1520462400606,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462402247,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462402528,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462402665,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462402775,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462402862,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462403003,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:03,Linux-Chrome-026207011847685147,1520462403061,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:06,Linux-Chrome-026207011847685147,1520462405448,keydown,input#event-name..form-control.title.col-md-12,"{""which"":52}",#new-event-text,B
+3/7/2018 16:40:08,Linux-Chrome-026207011847685147,1520462407873,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:40:08,Linux-Chrome-026207011847685147,1520462408229,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:09,Linux-Chrome-026207011847685147,1520462408574,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:40:09,Linux-Chrome-026207011847685147,1520462408734,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:40:09,Linux-Chrome-026207011847685147,1520462408936,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:40:09,Linux-Chrome-026207011847685147,1520462408917,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:40:10,Linux-Chrome-026207011847685147,1520462409267,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:10,Linux-Chrome-026207011847685147,1520462409366,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:40:10,Linux-Chrome-026207011847685147,1520462409428,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:40:10,Linux-Chrome-026207011847685147,1520462409560,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:11,Linux-Chrome-026207011847685147,1520462410631,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:11,Linux-Chrome-026207011847685147,1520462410797,keydown,input#event-location.col-md-12,"{""which"":52}",#new-event-text,B
+3/7/2018 16:40:12,Linux-Chrome-026207011847685147,1520462412196,mousedown,input#event-start-date,"{""which"":1,""pageX"":657,""pageY"":299}",#new-event-text,B
+3/7/2018 16:40:13,Linux-Chrome-026207011847685147,1520462413049,mousedown,td.xdsoft_date.xdsoft_day_of_week2,"{""which"":1,""pageX"":693,""pageY"":414}",#new-event-text,B
+3/7/2018 16:40:14,Linux-Chrome-026207011847685147,1520462413836,mousedown,div.xdsoft_datetimepicker.xdsoft_noselect.xdsoft_,"{""which"":1,""pageX"":898,""pageY"":423}",#new-event-text,B
+3/7/2018 16:40:15,Linux-Chrome-026207011847685147,1520462414712,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":853,""pageY"":423}",#new-event-text,B
+3/7/2018 16:40:16,Linux-Chrome-026207011847685147,1520462415875,mousedown,td.xdsoft_date.xdsoft_day_of_week2 div,"{""which"":1,""pageX"":689,""pageY"":463}",#new-event-text,B
+3/7/2018 16:40:17,Linux-Chrome-026207011847685147,1520462416838,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":860,""pageY"":463}",#new-event-text,B
+3/7/2018 16:40:19,Linux-Chrome-026207011847685147,1520462418513,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":640,""pageY"":360}",#new-event-text,B
+3/7/2018 16:40:22,Linux-Chrome-026207011847685147,1520462421398,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":669,""pageY"":383}",#new-event-text,B
+3/7/2018 16:40:23,Linux-Chrome-026207011847685147,1520462422340,mousedown,td.xdsoft_date.xdsoft_day_of_week3,"{""which"":1,""pageX"":720,""pageY"":527}",#new-event-text,B
+3/7/2018 16:40:23,Linux-Chrome-026207011847685147,1520462423229,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":867,""pageY"":490}",#new-event-text,B
+3/7/2018 16:40:25,Linux-Chrome-026207011847685147,1520462424257,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":699,""pageY"":428}",#new-event-text,B
+3/7/2018 16:40:25,Linux-Chrome-026207011847685147,1520462424437,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:40:25,Linux-Chrome-026207011847685147,1520462424442,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:40:26,Linux-Chrome-026207011847685147,1520462425593,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:26,Linux-Chrome-026207011847685147,1520462426073,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:26,Linux-Chrome-026207011847685147,1520462426238,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:40:27,Linux-Chrome-026207011847685147,1520462426350,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:27,Linux-Chrome-026207011847685147,1520462426567,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:28,Linux-Chrome-026207011847685147,1520462427369,keydown,input#event-name..form-control.title.col-md-12,"{""which"":8}",#new-event-text,B
+3/7/2018 16:40:28,Linux-Chrome-026207011847685147,1520462428095,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:28,Linux-Chrome-026207011847685147,1520462428239,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:29,Linux-Chrome-026207011847685147,1520462428471,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:29,Linux-Chrome-026207011847685147,1520462428660,keydown,input#event-name..form-control.title.col-md-12,"{""which"":52}",#new-event-text,B
+3/7/2018 16:40:29,Linux-Chrome-026207011847685147,1520462428980,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:40:29,Linux-Chrome-026207011847685147,1520462429254,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:30,Linux-Chrome-026207011847685147,1520462429714,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:40:30,Linux-Chrome-026207011847685147,1520462429866,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:40:30,Linux-Chrome-026207011847685147,1520462429999,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:40:30,Linux-Chrome-026207011847685147,1520462430071,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:40:30,Linux-Chrome-026207011847685147,1520462430312,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:31,Linux-Chrome-026207011847685147,1520462430429,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:40:31,Linux-Chrome-026207011847685147,1520462430492,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:40:31,Linux-Chrome-026207011847685147,1520462430597,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:31,Linux-Chrome-026207011847685147,1520462430709,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:31,Linux-Chrome-026207011847685147,1520462431142,keydown,input#event-location.col-md-12,"{""which"":52}",#new-event-text,B
+3/7/2018 16:40:33,Linux-Chrome-026207011847685147,1520462432571,mousedown,input#event-start-date,"{""which"":1,""pageX"":658,""pageY"":293}",#new-event-text,B
+3/7/2018 16:40:34,Linux-Chrome-026207011847685147,1520462433349,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":725,""pageY"":402}",#new-event-text,B
+3/7/2018 16:40:34,Linux-Chrome-026207011847685147,1520462434122,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":868,""pageY"":409}",#new-event-text,B
+3/7/2018 16:40:35,Linux-Chrome-026207011847685147,1520462435223,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":754,""pageY"":489}",#new-event-text,B
+3/7/2018 16:40:36,Linux-Chrome-026207011847685147,1520462435963,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":874,""pageY"":483}",#new-event-text,B
+3/7/2018 16:40:38,Linux-Chrome-026207011847685147,1520462437466,mousedown,table#time-details td,"{""which"":1,""pageX"":678,""pageY"":342}",#new-event-text,B
+3/7/2018 16:40:39,Linux-Chrome-026207011847685147,1520462438324,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":672,""pageY"":347}",#new-event-text,B
+3/7/2018 16:40:41,Linux-Chrome-026207011847685147,1520462440875,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":722,""pageY"":388}",#new-event-text,B
+3/7/2018 16:40:42,Linux-Chrome-026207011847685147,1520462441653,mousedown,td.xdsoft_date.xdsoft_day_of_week4,"{""which"":1,""pageX"":757,""pageY"":531}",#new-event-text,B
+3/7/2018 16:40:43,Linux-Chrome-026207011847685147,1520462442666,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":861,""pageY"":515}",#new-event-text,B
+3/7/2018 16:40:44,Linux-Chrome-026207011847685147,1520462443743,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":747,""pageY"":427}",#new-event-text,B
+3/7/2018 16:40:44,Linux-Chrome-026207011847685147,1520462443925,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:40:44,Linux-Chrome-026207011847685147,1520462443918,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:40:46,Linux-Chrome-026207011847685147,1520462445391,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:46,Linux-Chrome-026207011847685147,1520462445719,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:46,Linux-Chrome-026207011847685147,1520462446019,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:40:46,Linux-Chrome-026207011847685147,1520462446130,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:46,Linux-Chrome-026207011847685147,1520462446210,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:47,Linux-Chrome-026207011847685147,1520462446352,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:47,Linux-Chrome-026207011847685147,1520462446426,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:49,Linux-Chrome-026207011847685147,1520462448406,keydown,input#event-name..form-control.title.col-md-12,"{""which"":53}",#new-event-text,B
+3/7/2018 16:40:49,Linux-Chrome-026207011847685147,1520462448781,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:40:50,Linux-Chrome-026207011847685147,1520462449485,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:40:50,Linux-Chrome-026207011847685147,1520462449754,keydown,input#event-location.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:50,Linux-Chrome-026207011847685147,1520462449934,keydown,input#event-location.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:40:50,Linux-Chrome-026207011847685147,1520462450062,keydown,input#event-location.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:40:50,Linux-Chrome-026207011847685147,1520462450157,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:40:51,Linux-Chrome-026207011847685147,1520462450293,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:40:51,Linux-Chrome-026207011847685147,1520462450601,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:40:51,Linux-Chrome-026207011847685147,1520462450732,keydown,input#event-location.col-md-12,"{""which"":53}",#new-event-text,B
+3/7/2018 16:40:52,Linux-Chrome-026207011847685147,1520462452059,mousedown,input#event-start-date,"{""which"":1,""pageX"":649,""pageY"":288}",#new-event-text,B
+3/7/2018 16:40:53,Linux-Chrome-026207011847685147,1520462452857,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":739,""pageY"":423}",#new-event-text,B
+3/7/2018 16:40:54,Linux-Chrome-026207011847685147,1520462453711,mousedown,div.xdsoft_scroller,"{""which"":1,""pageX"":893,""pageY"":452}",#new-event-text,B
+3/7/2018 16:40:55,Linux-Chrome-026207011847685147,1520462454700,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":881,""pageY"":452}",#new-event-text,B
+3/7/2018 16:40:56,Linux-Chrome-026207011847685147,1520462456040,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":764,""pageY"":492}",#new-event-text,B
+3/7/2018 16:40:57,Linux-Chrome-026207011847685147,1520462456838,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":857,""pageY"":488}",#new-event-text,B
+3/7/2018 16:40:58,Linux-Chrome-026207011847685147,1520462457789,mousedown,table#time-details td,"{""which"":1,""pageX"":658,""pageY"":340}",#new-event-text,B
+3/7/2018 16:40:59,Linux-Chrome-026207011847685147,1520462458601,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":654,""pageY"":344}",#new-event-text,B
+3/7/2018 16:41:02,Linux-Chrome-026207011847685147,1520462461440,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":719,""pageY"":375}",#new-event-text,B
+3/7/2018 16:41:02,Linux-Chrome-026207011847685147,1520462462240,mousedown,td.xdsoft_date.xdsoft_day_of_week3,"{""which"":1,""pageX"":732,""pageY"":555}",#new-event-text,B
+3/7/2018 16:41:03,Linux-Chrome-026207011847685147,1520462463054,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":857,""pageY"":514}",#new-event-text,B
+3/7/2018 16:41:05,Linux-Chrome-026207011847685147,1520462464365,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":688,""pageY"":432}",#new-event-text,B
+3/7/2018 16:41:05,Linux-Chrome-026207011847685147,1520462464561,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:41:05,Linux-Chrome-026207011847685147,1520462464558,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:41:06,Linux-Chrome-026207011847685147,1520462465820,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466390,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466568,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466691,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466795,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466908,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:07,Linux-Chrome-026207011847685147,1520462466973,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:11,Linux-Chrome-026207011847685147,1520462471158,keydown,input#event-name..form-control.title.col-md-12,"{""which"":102}",#new-event-text,B
+3/7/2018 16:41:12,Linux-Chrome-026207011847685147,1520462471347,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:41:12,Linux-Chrome-026207011847685147,1520462471671,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:12,Linux-Chrome-026207011847685147,1520462472086,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472249,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472375,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472453,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472712,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472785,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472860,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462472986,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:13,Linux-Chrome-026207011847685147,1520462473140,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:14,Linux-Chrome-026207011847685147,1520462473601,keydown,input#event-location.col-md-12,"{""which"":101}",#new-event-text,B
+3/7/2018 16:41:17,Linux-Chrome-026207011847685147,1520462477163,mousedown,input#event-start-date,"{""which"":1,""pageX"":630,""pageY"":285}",#new-event-text,B
+3/7/2018 16:41:18,Linux-Chrome-026207011847685147,1520462478066,mousedown,td.xdsoft_date.xdsoft_day_of_week1 div,"{""which"":1,""pageX"":668,""pageY"":411}",#new-event-text,B
+3/7/2018 16:41:19,Linux-Chrome-026207011847685147,1520462479027,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":862,""pageY"":426}",#new-event-text,B
+3/7/2018 16:41:20,Linux-Chrome-026207011847685147,1520462480199,mousedown,td.xdsoft_date.xdsoft_day_of_week3,"{""which"":1,""pageX"":717,""pageY"":497}",#new-event-text,B
+3/7/2018 16:41:21,Linux-Chrome-026207011847685147,1520462480980,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":867,""pageY"":464}",#new-event-text,B
+3/7/2018 16:41:23,Linux-Chrome-026207011847685147,1520462482438,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":669,""pageY"":355}",#new-event-text,B
+3/7/2018 16:41:27,Linux-Chrome-026207011847685147,1520462486544,mousedown,input#daily-recurrent-freq,"{""which"":1,""pageX"":546,""pageY"":468}",#new-event-text,B
+3/7/2018 16:41:28,Linux-Chrome-026207011847685147,1520462487425,keydown,input#daily-recurrent-freq,"{""which"":97}",#new-event-text,B
+3/7/2018 16:41:28,Linux-Chrome-026207011847685147,1520462487471,keydown,input#daily-recurrent-freq,"{""which"":98}",#new-event-text,B
+3/7/2018 16:41:29,Linux-Chrome-026207011847685147,1520462488457,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":604,""pageY"":495}",#new-event-text,B
+3/7/2018 16:41:29,Linux-Chrome-026207011847685147,1520462488635,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:41:29,Linux-Chrome-026207011847685147,1520462488639,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462490348,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462490563,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462490689,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462490807,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462490893,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462491015,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:31,Linux-Chrome-026207011847685147,1520462491090,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:33,Linux-Chrome-026207011847685147,1520462492379,keydown,input#event-name..form-control.title.col-md-12,"{""which"":55}",#new-event-text,B
+3/7/2018 16:41:33,Linux-Chrome-026207011847685147,1520462492897,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:41:34,Linux-Chrome-026207011847685147,1520462493379,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:34,Linux-Chrome-026207011847685147,1520462493747,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:41:34,Linux-Chrome-026207011847685147,1520462493906,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:34,Linux-Chrome-026207011847685147,1520462494070,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:41:34,Linux-Chrome-026207011847685147,1520462494135,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:41:35,Linux-Chrome-026207011847685147,1520462494412,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:35,Linux-Chrome-026207011847685147,1520462494543,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:41:35,Linux-Chrome-026207011847685147,1520462494595,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:35,Linux-Chrome-026207011847685147,1520462494698,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:35,Linux-Chrome-026207011847685147,1520462494868,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:36,Linux-Chrome-026207011847685147,1520462495414,keydown,input#event-location.col-md-12,"{""which"":55}",#new-event-text,B
+3/7/2018 16:41:37,Linux-Chrome-026207011847685147,1520462496640,mousedown,input#event-start-date,"{""which"":1,""pageX"":626,""pageY"":286}",#new-event-text,B
+3/7/2018 16:41:38,Linux-Chrome-026207011847685147,1520462497704,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":717,""pageY"":409}",#new-event-text,B
+3/7/2018 16:41:39,Linux-Chrome-026207011847685147,1520462498605,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":851,""pageY"":386}",#new-event-text,B
+3/7/2018 16:41:40,Linux-Chrome-026207011847685147,1520462499667,mousedown,td.xdsoft_date.xdsoft_day_of_week5 div,"{""which"":1,""pageX"":776,""pageY"":492}",#new-event-text,B
+3/7/2018 16:41:41,Linux-Chrome-026207011847685147,1520462500392,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":863,""pageY"":485}",#new-event-text,B
+3/7/2018 16:41:42,Linux-Chrome-026207011847685147,1520462502157,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":679,""pageY"":353}",#new-event-text,B
+3/7/2018 16:41:45,Linux-Chrome-026207011847685147,1520462504970,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":619,""pageY"":382}",#new-event-text,B
+3/7/2018 16:41:46,Linux-Chrome-026207011847685147,1520462505809,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":750,""pageY"":549}",#new-event-text,B
+3/7/2018 16:41:47,Linux-Chrome-026207011847685147,1520462506636,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":849,""pageY"":535}",#new-event-text,B
+3/7/2018 16:41:48,Linux-Chrome-026207011847685147,1520462507997,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":609,""pageY"":431}",#new-event-text,B
+3/7/2018 16:41:51,Linux-Chrome-026207011847685147,1520462510899,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":578,""pageY"":499}",#new-event-text,B
+3/7/2018 16:41:52,Linux-Chrome-026207011847685147,1520462511900,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":640,""pageY"":499}",#new-event-text,B
+3/7/2018 16:41:53,Linux-Chrome-026207011847685147,1520462512603,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":640,""pageY"":545}",#new-event-text,B
+3/7/2018 16:41:53,Linux-Chrome-026207011847685147,1520462512803,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:41:53,Linux-Chrome-026207011847685147,1520462512791,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462514279,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462514577,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462514894,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462514969,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462515092,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:55,Linux-Chrome-026207011847685147,1520462515194,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:56,Linux-Chrome-026207011847685147,1520462515294,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:56,Linux-Chrome-026207011847685147,1520462515788,keydown,input#event-name..form-control.title.col-md-12,"{""which"":56}",#new-event-text,B
+3/7/2018 16:41:56,Linux-Chrome-026207011847685147,1520462515988,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:41:57,Linux-Chrome-026207011847685147,1520462516379,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:41:57,Linux-Chrome-026207011847685147,1520462516695,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:41:57,Linux-Chrome-026207011847685147,1520462516846,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:57,Linux-Chrome-026207011847685147,1520462517011,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:41:57,Linux-Chrome-026207011847685147,1520462517137,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:41:58,Linux-Chrome-026207011847685147,1520462517378,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:41:58,Linux-Chrome-026207011847685147,1520462517481,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:41:58,Linux-Chrome-026207011847685147,1520462517537,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:41:58,Linux-Chrome-026207011847685147,1520462517656,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:41:58,Linux-Chrome-026207011847685147,1520462517724,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:41:59,Linux-Chrome-026207011847685147,1520462518588,keydown,input#event-location.col-md-12,"{""which"":56}",#new-event-text,B
+3/7/2018 16:42:00,Linux-Chrome-026207011847685147,1520462519530,mousedown,input#event-start-date,"{""which"":1,""pageX"":655,""pageY"":286}",#new-event-text,B
+3/7/2018 16:42:01,Linux-Chrome-026207011847685147,1520462520946,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":716,""pageY"":408}",#new-event-text,B
+3/7/2018 16:42:02,Linux-Chrome-026207011847685147,1520462521998,mousedown,div.xdsoft_time.xdsoft_current,"{""which"":1,""pageX"":853,""pageY"":358}",#new-event-text,B
+3/7/2018 16:42:03,Linux-Chrome-026207011847685147,1520462523019,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":748,""pageY"":483}",#new-event-text,B
+3/7/2018 16:42:04,Linux-Chrome-026207011847685147,1520462523720,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":859,""pageY"":467}",#new-event-text,B
+3/7/2018 16:42:05,Linux-Chrome-026207011847685147,1520462525184,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":656,""pageY"":344}",#new-event-text,B
+3/7/2018 16:42:09,Linux-Chrome-026207011847685147,1520462528934,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":655,""pageY"":372}",#new-event-text,B
+3/7/2018 16:42:10,Linux-Chrome-026207011847685147,1520462529849,mousedown,td.xdsoft_date.xdsoft_day_of_week3 div,"{""which"":1,""pageX"":723,""pageY"":544}",#new-event-text,B
+3/7/2018 16:42:11,Linux-Chrome-026207011847685147,1520462530761,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":851,""pageY"":539}",#new-event-text,B
+3/7/2018 16:42:12,Linux-Chrome-026207011847685147,1520462531904,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":613,""pageY"":425}",#new-event-text,B
+3/7/2018 16:42:14,Linux-Chrome-026207011847685147,1520462533987,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":530,""pageY"":496}",#new-event-text,B
+3/7/2018 16:42:15,Linux-Chrome-026207011847685147,1520462534663,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":607,""pageY"":500}",#new-event-text,B
+3/7/2018 16:42:17,Linux-Chrome-026207011847685147,1520462537052,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":671,""pageY"":545}",#new-event-text,B
+3/7/2018 16:42:17,Linux-Chrome-026207011847685147,1520462537257,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:42:18,Linux-Chrome-026207011847685147,1520462537266,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:42:19,Linux-Chrome-026207011847685147,1520462538815,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:42:19,Linux-Chrome-026207011847685147,1520462539052,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:42:20,Linux-Chrome-026207011847685147,1520462539304,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:42:20,Linux-Chrome-026207011847685147,1520462539413,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:42:20,Linux-Chrome-026207011847685147,1520462539503,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:42:21,Linux-Chrome-026207011847685147,1520462540236,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:42:21,Linux-Chrome-026207011847685147,1520462540359,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:42:21,Linux-Chrome-026207011847685147,1520462540812,keydown,input#event-name..form-control.title.col-md-12,"{""which"":57}",#new-event-text,B
+3/7/2018 16:42:22,Linux-Chrome-026207011847685147,1520462541475,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:42:22,Linux-Chrome-026207011847685147,1520462541937,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:42:22,Linux-Chrome-026207011847685147,1520462542203,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:42:23,Linux-Chrome-026207011847685147,1520462542352,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:42:23,Linux-Chrome-026207011847685147,1520462542499,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:42:23,Linux-Chrome-026207011847685147,1520462542586,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:42:24,Linux-Chrome-026207011847685147,1520462543742,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:42:24,Linux-Chrome-026207011847685147,1520462543871,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:42:24,Linux-Chrome-026207011847685147,1520462543913,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:42:24,Linux-Chrome-026207011847685147,1520462544081,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:42:24,Linux-Chrome-026207011847685147,1520462544240,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:42:25,Linux-Chrome-026207011847685147,1520462544971,keydown,input#event-location.col-md-12,"{""which"":57}",#new-event-text,B
+3/7/2018 16:42:27,Linux-Chrome-026207011847685147,1520462546759,mousedown,input#event-start-date,"{""which"":1,""pageX"":602,""pageY"":282}",#new-event-text,B
+3/7/2018 16:42:28,Linux-Chrome-026207011847685147,1520462548174,mousedown,td.xdsoft_date.xdsoft_day_of_week3.xdsoft_current.xdsoft_today div,"{""which"":1,""pageX"":719,""pageY"":408}",#new-event-text,B
+3/7/2018 16:42:29,Linux-Chrome-026207011847685147,1520462548911,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":864,""pageY"":424}",#new-event-text,B
+3/7/2018 16:42:30,Linux-Chrome-026207011847685147,1520462549927,mousedown,td.xdsoft_date.xdsoft_day_of_week4 div,"{""which"":1,""pageX"":740,""pageY"":479}",#new-event-text,B
+3/7/2018 16:42:31,Linux-Chrome-026207011847685147,1520462550637,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":862,""pageY"":477}",#new-event-text,B
+3/7/2018 16:42:32,Linux-Chrome-026207011847685147,1520462551889,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":634,""pageY"":344}",#new-event-text,B
+3/7/2018 16:42:34,Linux-Chrome-026207011847685147,1520462554152,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":631,""pageY"":389}",#new-event-text,B
+3/7/2018 16:42:35,Linux-Chrome-026207011847685147,1520462554832,mousedown,td.xdsoft_date.xdsoft_day_of_week2 div,"{""which"":1,""pageX"":682,""pageY"":518}",#new-event-text,B
+3/7/2018 16:42:36,Linux-Chrome-026207011847685147,1520462555591,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":855,""pageY"":512}",#new-event-text,B
+3/7/2018 16:42:37,Linux-Chrome-026207011847685147,1520462556630,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":603,""pageY"":439}",#new-event-text,B
+3/7/2018 16:42:42,Linux-Chrome-026207011847685147,1520462561257,mousedown,input#monthly-recurrent-freq,"{""which"":1,""pageX"":551,""pageY"":459}",#new-event-text,B
+3/7/2018 16:42:42,Linux-Chrome-026207011847685147,1520462562176,keydown,input#monthly-recurrent-freq,"{""which"":65}",#new-event-text,B
+3/7/2018 16:42:46,Linux-Chrome-026207011847685147,1520462565377,keydown,input#monthly-recurrent-freq,"{""which"":8}",#new-event-text,B
+3/7/2018 16:42:46,Linux-Chrome-026207011847685147,1520462566082,keydown,input#monthly-recurrent-freq,"{""which"":97}",#new-event-text,B
+3/7/2018 16:42:47,Linux-Chrome-026207011847685147,1520462567031,mousedown,div.checkbox-selector label,"{""which"":1,""pageX"":576,""pageY"":597}",#new-event-text,B
+3/7/2018 16:42:48,Linux-Chrome-026207011847685147,1520462568076,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":586,""pageY"":693}",#new-event-text,B
+3/7/2018 16:42:48,Linux-Chrome-026207011847685147,1520462568268,Create Event button click,document,"{""click"":true}",#new-event-text,B
+3/7/2018 16:42:48,Linux-Chrome-026207011847685147,1520462568273,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:42:50,Linux-Chrome-026207011847685147,1520462569765,keydown,input#event-name..form-control.title.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:42:50,Linux-Chrome-026207011847685147,1520462570046,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:42:50,Linux-Chrome-026207011847685147,1520462570269,keydown,input#event-name..form-control.title.col-md-12,"{""which"":86}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462570373,keydown,input#event-name..form-control.title.col-md-12,"{""which"":69}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462570481,keydown,input#event-name..form-control.title.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462570609,keydown,input#event-name..form-control.title.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462570665,keydown,input#event-name..form-control.title.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462571155,keydown,input#event-name..form-control.title.col-md-12,"{""which"":97}",#new-event-text,B
+3/7/2018 16:42:51,Linux-Chrome-026207011847685147,1520462571176,keydown,input#event-name..form-control.title.col-md-12,"{""which"":96}",#new-event-text,B
+3/7/2018 16:42:52,Linux-Chrome-026207011847685147,1520462571342,keydown,input#event-name..form-control.title.col-md-12,"{""which"":9}",#new-event-text,B
+3/7/2018 16:42:52,Linux-Chrome-026207011847685147,1520462571695,keydown,input#event-location.col-md-12,"{""which"":16}",#new-event-text,B
+3/7/2018 16:42:52,Linux-Chrome-026207011847685147,1520462572061,keydown,input#event-location.col-md-12,"{""which"":76}",#new-event-text,B
+3/7/2018 16:42:52,Linux-Chrome-026207011847685147,1520462572197,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572327,keydown,input#event-location.col-md-12,"{""which"":67}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572403,keydown,input#event-location.col-md-12,"{""which"":65}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572668,keydown,input#event-location.col-md-12,"{""which"":84}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572762,keydown,input#event-location.col-md-12,"{""which"":73}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572818,keydown,input#event-location.col-md-12,"{""which"":79}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462572944,keydown,input#event-location.col-md-12,"{""which"":78}",#new-event-text,B
+3/7/2018 16:42:53,Linux-Chrome-026207011847685147,1520462573016,keydown,input#event-location.col-md-12,"{""which"":32}",#new-event-text,B
+3/7/2018 16:42:54,Linux-Chrome-026207011847685147,1520462573450,keydown,input#event-location.col-md-12,"{""which"":97}",#new-event-text,B
+3/7/2018 16:42:54,Linux-Chrome-026207011847685147,1520462573469,keydown,input#event-location.col-md-12,"{""which"":96}",#new-event-text,B
+3/7/2018 16:42:55,Linux-Chrome-026207011847685147,1520462574906,mousedown,input#event-start-date,"{""which"":1,""pageX"":625,""pageY"":297}",#new-event-text,B
+3/7/2018 16:42:56,Linux-Chrome-026207011847685147,1520462575719,mousedown,td.xdsoft_date.xdsoft_day_of_week2,"{""which"":1,""pageX"":701,""pageY"":417}",#new-event-text,B
+3/7/2018 16:42:57,Linux-Chrome-026207011847685147,1520462576807,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":860,""pageY"":396}",#new-event-text,B
+3/7/2018 16:42:58,Linux-Chrome-026207011847685147,1520462577778,mousedown,td.xdsoft_date.xdsoft_day_of_week4,"{""which"":1,""pageX"":759,""pageY"":494}",#new-event-text,B
+3/7/2018 16:42:59,Linux-Chrome-026207011847685147,1520462578434,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":863,""pageY"":478}",#new-event-text,B
+3/7/2018 16:43:00,Linux-Chrome-026207011847685147,1520462579773,mousedown,select#recurrent-event-type-selector,"{""which"":1,""pageX"":662,""pageY"":355}",#new-event-text,B
+3/7/2018 16:43:02,Linux-Chrome-026207011847685147,1520462582086,mousedown,input#recurrent-event-end-date,"{""which"":1,""pageX"":653,""pageY"":383}",#new-event-text,B
+3/7/2018 16:43:03,Linux-Chrome-026207011847685147,1520462582886,mousedown,td.xdsoft_date.xdsoft_day_of_week5,"{""which"":1,""pageX"":762,""pageY"":531}",#new-event-text,B
+3/7/2018 16:43:04,Linux-Chrome-026207011847685147,1520462583625,mousedown,div.xdsoft_time,"{""which"":1,""pageX"":836,""pageY"":531}",#new-event-text,B
+3/7/2018 16:43:05,Linux-Chrome-026207011847685147,1520462584713,mousedown,table#recurrent-event-details.hidden td,"{""which"":1,""pageX"":613,""pageY"":421}",#new-event-text,B
+3/7/2018 16:43:06,Linux-Chrome-026207011847685147,1520462585400,mousedown,select#recurrent-event-time-selector,"{""which"":1,""pageX"":602,""pageY"":437}",#new-event-text,B
+3/7/2018 16:43:08,Linux-Chrome-026207011847685147,1520462587928,mousedown,div.month-checkbox-selector label,"{""which"":1,""pageX"":652,""pageY"":568}",#new-event-text,B
+3/7/2018 16:43:09,Linux-Chrome-026207011847685147,1520462588870,mousedown,button#create-event-button.btn.btn-secondary,"{""which"":1,""pageX"":664,""pageY"":613}",#new-event-text,B
+3/7/2018 16:43:09,Linux-Chrome-026207011847685147,1520462589059,success,document,"{""passed"":true}",#new-event-text,B
+3/7/2018 16:43:09,Linux-Chrome-026207011847685147,1520462589054,Create Event button click,document,"{""click"":true}",#new-event-text,B
